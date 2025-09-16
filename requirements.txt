@@ -1,0 +1,8 @@
+streamlit
+pyshark
+openai
+pandas>=2.2.0
+plotly
+python-dotenv
+numpy
+apscheduler
