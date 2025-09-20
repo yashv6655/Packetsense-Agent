@@ -13,6 +13,10 @@ import plotly.graph_objects as go
 import pandas as pd
 from src.complete_agent import AutonomousNetworkAgent
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 st.set_page_config(
     page_title="PacketSense Autonomous Agent",
