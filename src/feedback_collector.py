@@ -26,6 +26,7 @@ class ThreatPersistence(Enum):
     REDUCED = "reduced"
     PERSISTED = "persisted"
     ESCALATED = "escalated"
+    UNKNOWN = "unknown"
 
 @dataclass
 class ActionFeedback:
