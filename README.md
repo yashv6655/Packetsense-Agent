@@ -189,4 +189,4 @@ The agent will automatically use your new capabilities!
 
 ## License
 
-This is a learning project - use it to understand AI-powered network security!
+This is a learning project. Use it to understand AI-powered network security
